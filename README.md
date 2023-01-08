@@ -22,7 +22,7 @@ If you find this work useful and use it on your own research, please cite our pa
 Enabling models to learn from a few labeled examples, i.e., Few-Shot Learning (FSL), is one of the key steps toward more human-like artificial intelligence. We propose a novel prompting method MetaPrompting, which employs optimization-based meta-learning algorithm to find adaptive initialization for soft-prompt methods to aid few-shot text classification tasks. We optimize pretrained language model parameters as well as soft prompt parameters with MAML++ algorithm, which conducts tentative updates on support sets and optimize parameters with query set samples to find a more generalizable initialization point.
 
 <p align="center">
-<img src="assets/meta.png" width=80% />
+<img src="assets/meta.png" width=60% />
 </p>
 
 ## Data 
